@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm Chen-Tsu! I'm a JavaScript enthusiast and open source software developer.
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chentsulin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="chentsulin's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chentsulin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="chentsulin's github stats">
 </p> 
