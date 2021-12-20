@@ -18,5 +18,18 @@ Here are some ideas to get you started:
 I'm Chen-Tsu! I'm a JavaScript enthusiast and open source software developer.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chentsulin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="chentsulin's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chentsulin&show_icons=true&theme=algolia&count_private=true" alt="chentsulin's github stats">
 </p> 
+
+#### Top Repositories
+
+
+<a href="https://github.com/electron-react-boilerplate/electron-react-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=electron-react-boilerplate&repo=electron-react-boilerplate" />
+</a>
+<a href="https://github.com/chentsulin/awesome-graphql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chentsulin&repo=awesome-graphql" />
+</a>
+
+<br />
+<br />
